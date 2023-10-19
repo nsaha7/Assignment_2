@@ -1,3 +1,8 @@
+/*
+NAbanita Saha
+id: 301321662
+
+*/
 const mongoose = require("mongoose");
 
 const productSchema = new mongoose.Schema({
